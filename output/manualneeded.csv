@@ -339,13 +339,13 @@ Xantolis environmental,Xantolis,,environmental,NA,NA,,,,DELETE,1.1,,,Xantolis,,e
 Zamia sp,Zamia,,sp,NA,NA,,,,DELETE,1.1,,,Zamia,,sp,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
 Zantedeschia hybrid,Zantedeschia,,hybrid,NA,NA,,,,DELETE,1.1,,,Zantedeschia,,hybrid,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
 Ziziphus sp,Ziziphus,,sp,NA,NA,,,,DELETE,1.1,,,Ziziphus,,sp,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anthemis handel,Anthemis,,handel,NA,NA,,,,FALSE,1.1,,,Anthemis,,handel,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anthocarapa nitidula,Anthocarapa,,nitidula,NA,NA,,,,FALSE,1.1,,,Anthocarapa,,nitidula,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anthoceros laminiferus,Anthoceros,,laminiferus,NA,NA,,,,FALSE,1.1,,,Anthoceros,,laminiferus,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anthoceros tristanianus,Anthoceros,,tristanianus,NA,NA,,,,FALSE,1.1,,,Anthoceros,,tristanianus,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anthorrhiza clemensii,Anthorrhiza,,clemensii,NA,NA,,,,FALSE,1.1,,,Anthorrhiza,,clemensii,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Anticoryne ovalifolia,Anticoryne,,ovalifolia,NA,NA,,,,FALSE,1.1,,,Anticoryne,,ovalifolia,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
-Antrophyopsis bivittata,Antrophyopsis,,bivittata,NA,NA,,,,FALSE,1.1,,,Antrophyopsis,,bivittata,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
+Anthemis handel,Anthemis,,handel,NA,NA,,,,MANUAL,1.1,,,Anthemis,,handel-mazzettii,NA,,Eig,Gcc-29943,Accepted,FALSE,FALSE,FALSE,2017-05-11
+Anthocarapa nitidula,Anthocarapa,,nitidula,NA,NA,,,,MANUAL,1.1,,,Anthocarpa,,nitidula,NA,,(Benth.) T.D.Penn. ex Mabb.,Kew-2641564,Accepted,FALSE,FALSE,FALSE,2017-05-11
+Anthoceros laminiferus,Anthoceros,,laminiferus,NA,NA,,,,INED,1.1,,,Anthoceros,,laminiferus,NA,,Steph.,,,FALSE,FALSE,FALSE,2017-05-11
+Anthoceros tristanianus,Anthoceros,,tristanianus,NA,NA,,,,TOONEW,1.1,,,Anthoceros,,tristanianus,NA,,J.C.Villarreal J.J.Engel & Vana,,,FALSE,FALSE,FALSE,2017-05-11
+Anthorrhiza clemensii,Anthorrhiza,,clemensii,NA,NA,,,,INED,1.1,,,Anthorrhiza,,clemensii,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
+Anticoryne ovalifolia,Anticoryne,,ovalifolia,NA,NA,,,,MANUAL,1.1,Synonym,,Baeckea,,ovalifolia,NA,,(F.Muell.) F.Muell.,,Accepted,FALSE,FALSE,FALSE,2017-05-11
+Antrophyopsis bivittata,Antrophyopsis,,bivittata,NA,NA,,,,FALSE,1.1,,,Antrophyum,,bivittatum,NA,,C. Chr.,Tro-26600987,Accepted,FALSE,FALSE,FALSE,2017-05-11
 Antrophyopsis boryana,Antrophyopsis,,boryana,NA,NA,,,,FALSE,1.1,,,Antrophyopsis,,boryana,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
 Antrophyopsis manniana,Antrophyopsis,,manniana,NA,NA,,,,FALSE,1.1,,,Antrophyopsis,,manniana,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
 Antrophyum solomonense,Antrophyum,,solomonense,NA,NA,,,,FALSE,1.1,,,Antrophyum,,solomonense,NA,,,,,FALSE,FALSE,FALSE,2017-05-11
